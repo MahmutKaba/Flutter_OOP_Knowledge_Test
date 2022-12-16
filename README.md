@@ -1,16 +1,17 @@
-# bilgitesti
+# Knowledge Test
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Flutter project is a starting point for OOP
+## Using
+Class, Functions, Object, Constants, List, Alert Dialog, Wrap Widget, Expanded Widget
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+### Mahmut KABA
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Linkedin](https://www.linkedin.com/in/mahmut-kaba-8ab997253/)
+
+
